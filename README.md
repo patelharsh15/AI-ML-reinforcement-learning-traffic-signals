@@ -66,4 +66,3 @@ Due to SUMO version change and a few corresponding code modifications (e.g. `tau
 :-------------------------------:|:------------------------------:
 ![](./figs/large_grid_train.png) | ![](./figs/real_net_train.png)       
 
-~~~
