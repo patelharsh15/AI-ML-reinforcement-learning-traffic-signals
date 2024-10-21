@@ -66,11 +66,6 @@ Due to SUMO version change and a few corresponding code modifications (e.g. `tau
 :-------------------------------:|:------------------------------:
 ![](./figs/large_grid_train.png) | ![](./figs/real_net_train.png)       
 
-## Citation
-If you find this useful in your research, please cite our paper "Multi-Agent Deep Reinforcement Learning for Large-Scale Traffic Signal Control" ([early access version](https://ieeexplore.ieee.org/document/8667868), [preprint version](https://arxiv.org/pdf/1903.04527.pdf)):
-~~~
-@article{chu2019multi,
-  title={Multi-Agent Deep Reinforcement Learning for Large-Scale Traffic Signal Control},
   author={Chu, Tianshu and Wang, Jie and Codec{\`a}, Lara and Li, Zhaojian},
   journal={IEEE Transactions on Intelligent Transportation Systems},
   year={2019},
