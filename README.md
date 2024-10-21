@@ -66,9 +66,4 @@ Due to SUMO version change and a few corresponding code modifications (e.g. `tau
 :-------------------------------:|:------------------------------:
 ![](./figs/large_grid_train.png) | ![](./figs/real_net_train.png)       
 
-  author={Chu, Tianshu and Wang, Jie and Codec{\`a}, Lara and Li, Zhaojian},
-  journal={IEEE Transactions on Intelligent Transportation Systems},
-  year={2019},
-  publisher={IEEE}
-}
 ~~~
